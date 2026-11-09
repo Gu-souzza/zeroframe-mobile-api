@@ -1,0 +1,270 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Air Jordan 1 High OG Latte",
+      "categoria": "Calçados - Multimarcas",
+      "categoriaId": "calcados",
+      "marca": "Multimarcas",
+      "genero": "unissex",
+      "preco": 1100,
+      "parcelas": 10,
+      "nota": 4.9,
+      "tamanhos": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "cores": [
+        "Bege",
+        "Preto",
+        "Branco"
+      ],
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/air-jordan-latte.png"
+      }
+    },
+    {
+      "id": "2",
+      "nome": "Camisa Oversized Preta",
+      "categoria": "Camisas - Multimarcas",
+      "categoriaId": "camisas",
+      "marca": "Multimarcas",
+      "genero": "masculino",
+      "preco": 90,
+      "parcelas": 10,
+      "nota": 5,
+      "tamanhos": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
+      "cores": [
+        "Preto"
+      ],
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/camisa-oversized-preta.png"
+      },
+      "imagens": [
+        {
+          "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/camisa-oversized-preta.png"
+        },
+        {
+          "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/camisa-oversized-preta-2.png"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "nome": "Bermuda Jeans",
+      "categoria": "Bermudas - Multimarcas",
+      "categoriaId": "bermudas",
+      "marca": "Multimarcas",
+      "genero": "masculino",
+      "preco": 90,
+      "parcelas": 10,
+      "nota": 4.6,
+      "tamanhos": [
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "cores": [
+        "Preto"
+      ],
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/bermuda-jeans.png"
+      }
+    },
+    {
+      "id": "4",
+      "nome": "Corrente Ice Cravejada",
+      "categoria": "Acessórios - Multimarcas",
+      "categoriaId": "acessorios",
+      "marca": "Multimarcas",
+      "genero": "unissex",
+      "preco": 750,
+      "precoOriginal": 1000,
+      "parcelas": 10,
+      "nota": 4.8,
+      "tamanhos": [
+        "Padrão"
+      ],
+      "cores": [
+        "Prata"
+      ],
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/corrente-ice.png"
+      }
+    },
+    {
+      "id": "5",
+      "nome": "Blusa Moletom Preta",
+      "categoria": "Moletom - Multimarcas",
+      "categoriaId": "moletom",
+      "marca": "Multimarcas",
+      "genero": "unissex",
+      "preco": 500,
+      "parcelas": 10,
+      "nota": 4.7,
+      "tamanhos": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
+      "cores": [
+        "Preto",
+        "Vermelho"
+      ],
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/moletom-preto.png"
+      }
+    },
+    {
+      "id": "6",
+      "nome": "Calça Levi’s Baggy Jeans Clara",
+      "categoria": "Calças - Multimarcas",
+      "categoriaId": "calcas",
+      "marca": "Multimarcas",
+      "genero": "feminino",
+      "preco": 150,
+      "precoOriginal": 200,
+      "parcelas": 10,
+      "nota": 4.5,
+      "tamanhos": [
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "cores": [
+        "Azul"
+      ],
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/calca-levis-baggy.png"
+      }
+    },
+    {
+      "id": "7",
+      "nome": "Adidas x Bad Bunny Forum Low",
+      "categoria": "Calçados - Multimarcas",
+      "categoriaId": "calcados",
+      "marca": "Multimarcas",
+      "genero": "unissex",
+      "preco": 1000,
+      "parcelas": 10,
+      "nota": 4.9,
+      "tamanhos": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "cores": [
+        "Branco",
+        "Cinza"
+      ],
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/adidas-bad-bunny.png"
+      }
+    },
+    {
+      "id": "8",
+      "nome": "Camisa Baw Oversized Preta",
+      "categoria": "Camisas - Zero Frame",
+      "categoriaId": "camisas",
+      "marca": "Zero Frame",
+      "genero": "masculino",
+      "preco": 90,
+      "parcelas": 10,
+      "nota": 4.8,
+      "tamanhos": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
+      "cores": [
+        "Preto"
+      ],
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/camisa-baw-oversized.jpg"
+      }
+    },
+    {
+      "id": "9",
+      "nome": "Camisa Boxy Off-white",
+      "categoria": "Camisas - Zero Frame",
+      "categoriaId": "camisas",
+      "marca": "Zero Frame",
+      "genero": "masculino",
+      "preco": 60,
+      "parcelas": 10,
+      "nota": 4.7,
+      "tamanhos": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
+      "cores": [
+        "Branco"
+      ],
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/camisa-boxy-offwhite.jpg"
+      }
+    }
+  ],
+  "categorias": [
+    {
+      "id": "camisas",
+      "nome": "Camisas",
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/camisa-oversized-preta.png"
+      }
+    },
+    {
+      "id": "calcas",
+      "nome": "Calças",
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/calca-levis-baggy.png"
+      }
+    },
+    {
+      "id": "moletom",
+      "nome": "Moletom",
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/moletom-preto.png"
+      }
+    },
+    {
+      "id": "calcados",
+      "nome": "Calçados",
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/air-jordan-latte.png"
+      }
+    },
+    {
+      "id": "bermudas",
+      "nome": "Bermudas",
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/bermuda-jeans.png"
+      }
+    },
+    {
+      "id": "acessorios",
+      "nome": "Acessórios",
+      "imagem": {
+        "uri": "https://raw.githubusercontent.com/murilokkj/zeroframe-mobile-interface/main/assets/images/produtos/corrente-ice.png"
+      }
+    }
+  ]
+}
