@@ -1,6 +1,10 @@
 # 🛒 Zero Frame Mobile — API
 
-API REST da loja de streetwear **Zero Frame**, desenvolvida para o aplicativo mobile do PIM 4. O projeto usa **Node.js 24** e **SQLite**, com dados de demonstração extraídos da interface mobile.
+Este repositório guarda o **protótipo independente** da API do Zero Frame Mobile, feito com **Node.js 24** e **SQLite** para demonstrar o aplicativo.
+
+Para usar a mesma conta e recuperar o carrinho e os pedidos do desktop no app, use a API ASP.NET Core com SQL Server do projeto desktop. A branch de integração contém as alterações e o passo a passo para apontar os dois clientes para a mesma base. [API compartilhada e instruções](https://github.com/Gu-souzza/sistema-academico-pim-3/tree/codex/api-compartilhada#usar-a-mesma-api-no-desktop-e-no-mobile)
+
+O SQLite deste protótipo guarda somente os dados que foram criados nele. As instruções abaixo servem para executar essa versão de demonstração.
 
 [Interface mobile em React Native e Expo](https://github.com/murilokkj/zeroframe-mobile-interface)
 
